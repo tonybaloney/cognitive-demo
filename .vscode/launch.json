@@ -1,0 +1,99 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Sample: Alternative Document Input",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/sample_alternative_document_input.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Sample: Analyze actions",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/sample_analyze_actions.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Sample: Analyze healthcare entities",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/sample_analyze_healthcare_entities.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Sample: Analyze healthcare entities (with cancellation)",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/sample_analyze_healthcare_entities_with_cancellation.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Sample: Analyze sentiment",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/sample_analyze_sentiment.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Sample: Analyze sentiment with opinion mining",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/sample_analyze_sentiment_with_opinion_mining.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Sample: Authentication demo",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/sample_authentication.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Sample: Detect language",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/sample_detect_language.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Sample: Extract key phrases",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/sample_extract_key_phrases.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Sample: Get detailed diagnostics information",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/sample_get_detailed_diagnostics_information.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Sample: Recognize entities",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/sample_recognize_entities.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Sample: Recognize linked entities",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/sample_recognize_linked_entities.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Sample: Recognize PII entities",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/sample_recognize_pii_entities.py",
+            "console": "integratedTerminal"
+        },
+    ]
+}
